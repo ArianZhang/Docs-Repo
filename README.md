@@ -1,4 +1,4 @@
 Docs-Repo
 =========
 
-It's my documents repository, mostly, About IT books in it.
+It's my documents repository. There are most IT books.
