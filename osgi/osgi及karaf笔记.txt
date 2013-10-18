@@ -1,0 +1,15 @@
+一、karaf启动：karaf安装目录下bin目录中双击karaf.bat
+
+二、常用命令：
+    features：list
+    features：install
+    admin:create
+
+三、osgi项目应基于maven工程
+
+四、修改karaf的web端口：修改karaf安装目录下etc目录下jetty.xml文件
+      <Property name="jetty.port" default="8181"/>
+
+五、karaf控制台web默认登录地址：http://localhost:8181/system/console
+    帐号：karaf  karaf
+
